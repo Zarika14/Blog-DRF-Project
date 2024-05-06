@@ -1,38 +1,38 @@
-Building a Django Web Application with CRUD Operations
+**Building a Django Web Application with CRUD Operations**
 
 Welcome to our Django-based web application! It's packed with features such as user authentication, CRUD operations, and a RESTful API powered by Django REST Framework. With this application, users can sign up, log in, create, read, update, and delete blog posts effortlessly.
 
 
-Key Features:
+**Key Features:**
 
-1. User Signup with Email Verification: Join our community by signing up with your email address. We ensure the security of our platform with an email verification process, guaranteeing the validity of each user's email.
-2. 
-
-3. Secure Login: Registered users can easily access the platform's features through a secure login process.
+User Signup with Email Verification: Join our community by signing up with your email address. We ensure the security of our platform with an email verification process, guaranteeing the validity of each user's email.
    
 
-CRUD Operations:
+Secure Login: Registered users can easily access the platform's features through a secure login process.
+   
+
+**CRUD Operations:**
 
 
-3. Create Blog Posts: Share your thoughts and stories by creating new blog posts. Simply provide a title, description, and optionally, an image.
+Create Blog Posts: Share your thoughts and stories by creating new blog posts. Simply provide a title, description, and optionally, an image.
 
-4. List and Explore Blog Posts: Browse through all blog posts conveniently listed on the dashboard. Find what interests you and dive into captivating content.
+List and Explore Blog Posts: Browse through all blog posts conveniently listed on the dashboard. Find what interests you and dive into captivating content.
 
-5. Edit Existing Blog Posts: Update your published blog posts at any time. Whether it's tweaking the title, refining the description, or replacing the image, editing is a breeze.
+Edit Existing Blog Posts: Update your published blog posts at any time. Whether it's tweaking the title, refining the description, or replacing the image, editing is a breeze.
 
-6. Delete Unwanted Blog Posts: Clean up your space by removing blog posts you no longer wish to keep. We believe in giving you complete control over your content.
+Delete Unwanted Blog Posts: Clean up your space by removing blog posts you no longer wish to keep. We believe in giving you complete control over your content.
 
 
-Technologies Utilized:
+**Technologies Utilized:**
 
 
 - Django REST Framework: Our robust backend is powered by Django REST Framework, ensuring efficient handling of HTTP requests and responses.
-- 
+ 
 
 - Swagger Integration: Explore our API documentation effortlessly using Swagger. It provides a user-friendly interface for understanding and testing our API endpoints.
-- 
+ 
 
-Getting Started:
+**Getting Started:**
 
 
 Ready to dive in? Follow these simple steps to set up the project locally:
